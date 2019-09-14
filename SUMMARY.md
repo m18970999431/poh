@@ -1,6 +1,6 @@
 # Summary
 
-  * [目录大纲](README.md)
+  * [文档说明]]](README.md)
   * [课前准备：技术体系介绍](articles/ch0/README.md)
       * [技术架构](articles/ch0/TechnicalFramework.md)
       * [知识储备](articles/ch0/KnowledgeReserve.md)_
@@ -33,7 +33,7 @@
   * [第六次课：更新迭代](articles/ch6/README.md)
       * [需求整理](articles/ch6/DemandSorting.md)
       * [客户术语](articles/ch6/CustomerTerminology.md)
-  * [结业大作业](articles/ch7/README.md)
+  * [结业考核](articles/ch7/README.md)
       * [初级认证](articles/ch7/PrimaryCertification.md)
       * [中级认证](articles/ch7/IntermediateCertification.md)
       * [高级认证](articles/ch7/AdvancedCertification.md)
