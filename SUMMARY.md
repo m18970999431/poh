@@ -2,7 +2,7 @@
 
   * [文档说明](README.md)
   * [课前准备：技术体系介绍](articles/ch0/README.md)
-      * [技术架构](articles/ch0/TechnicalFramework.md)
+      * [开发流程](articles/ch0/TechnicalFramework.md)
       * [知识储备](articles/ch0/KnowledgeReserve.md)_
       * [课程介绍](articles/ch0/CourseIntroduction.md)
       * [考核评级](articles/ch0/AssessmentGrading.md)
@@ -25,7 +25,7 @@
       * [基础功能](articles/ch4/BasicFunction.md)
       * [组件使用](articles/ch4/ComponentUsage.md)
       * [部署上线](articles/ch4/DeploymentOnline.md)
-  * [第五次课：项目管理](articles/ch4/README.md)
+  * [第五次课：项目管理](articles/ch5/README.md)
       * [需求签订](articles/ch5/DemandSigning.md)
       * [进度管理](articles/ch5/ProgressManagement.md)
       * [安全备份](articles/ch5/SecureBackup.md)

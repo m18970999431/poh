@@ -1,0 +1,23 @@
+{
+    "title": "全栈技术体系",
+    "description": "POH, Project Of Hopecent",
+    "author": "POH",
+    "language": "zh-hans",
+    "root": ".",
+    
+
+    "plugins": [
+        "-search",
+        "back-to-top-button",
+        "expandable-chapters-small",
+        "chapter-fold",
+        "copy-code-button",
+        "-lunr", 
+        "-search", 
+        "search-pro"
+    ],
+
+    "pluginsConfig": {
+        
+    }
+}

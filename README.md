@@ -8,7 +8,13 @@
 cnpm install gitbook-cli -g
 ```
 
-- 在当前目录下，执行`gitbook`构建
+- 在当前目录下，安装`book.json`里面的插件，生成node_modules目录
+
+```
+gitbook install
+```
+
+- 在当前目录下，执行`gitbook`构建，生成_book目录（源文件）
 
 ```
 gitbook build
