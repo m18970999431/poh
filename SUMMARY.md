@@ -1,6 +1,6 @@
 # Summary
 
-  * [文档说明]]](README.md)
+  * [文档说明](README.md)
   * [课前准备：技术体系介绍](articles/ch0/README.md)
       * [技术架构](articles/ch0/TechnicalFramework.md)
       * [知识储备](articles/ch0/KnowledgeReserve.md)_
@@ -11,7 +11,7 @@
       * [后端能力](articles/ch1/End.md)
       * [SQL能力](articles/ch1/Sql.md)
   * [第二次课：工具使用](articles/ch2/README.md)
-      * [开发工具](articles/ch0/DevelopmentTools.md)
+      * [开发工具](articles/ch2/DevelopmentTools.md)
       * [调试工具](articles/ch2/DebuggingTools.md)
       * [管理工具](articles/ch2/ManagementTools.md)
       * [产品工具](articles/ch2/ProductTools.md)
