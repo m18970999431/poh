@@ -1,5 +1,13 @@
 # 文档说明
 
+## 克隆
+
+在电脑上新建一个目录，如E:/project/
+
+```
+git clone https://github.com/m18970999431/poh.git
+```
+
 ## 构建
 
 - 安装`gitbook-cli`
@@ -8,11 +16,19 @@
 cnpm install gitbook-cli -g
 ```
 
-- 在当前目录下，安装`book.json`里面的插件，生成`node_modules`目录
+- 在E:/project/目录下，安装`book.json`里面的插件，生成`node_modules`目录
 
 ```
 gitbook install
 ```
+
+- 在当前目录下，执行`gitbook`构建，生成`_book`目录（源文件）
+
+```
+gitbook serve
+```
+
+## 生成
 
 - 在当前目录下，执行`gitbook`构建，生成`_book`目录（源文件）
 
